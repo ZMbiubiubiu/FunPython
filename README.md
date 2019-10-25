@@ -10,7 +10,10 @@
 
 # Part2. 实用小工具  
     包括一些文本批处理程序、自定义的 CLI ，比如模仿 Unix 命令等  
-* 之前写的一些[文件批处理程序](https://github.com/ZMbiubiubiu/python_files_prosessing_scripts)
+* 批量重命名文件 [batch-files](/Tool/batch_file_name.py)  
+
+* 使用 [pymysql 操纵数据库](/Tool/pymysql_deal_sql.py)  
+
 * 模仿 [ls](/Tool/ls.py) 命令  
 
 * 模仿 [more](/Tool/more.py) 命令  
